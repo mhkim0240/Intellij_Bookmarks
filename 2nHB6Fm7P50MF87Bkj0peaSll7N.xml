@@ -1,0 +1,409 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ems" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:isms2023" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="167" column="59" lean-forward="true" selection-start-line="167" selection-start-column="59" selection-end-line="167" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot.info">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/classes/com/zesware/common/authentication/filter/ZebraExceptionTranslationFilter.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authorization/types/AccessControll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/classes/spring/service/context-security.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2392">
+              <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="3" lastUsed="1728888547739" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1728620525064" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1728888547749" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="4" lastUsed="1728888547661" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="3" lastUsed="1728888547719" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="13" lastUsed="1728888547759" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SecurityFilterChain</find>
+      <find>permitAll</find>
+      <find>overlay</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\git-spam\ems_isms2\ems\ems</dir>
+      <dir>D:\git-spam\ems_isms2\ems\common\src\main\java\com\zesware\common\authorization\types</dir>
+      <dir>D:\git-spam\ems_isms2\ems\common</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ems/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1728888547749" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="4" lastUsage="1728888547661" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="3" lastUsage="1728888547719" />
+    </language>
+    <language id="XML">
+      <summary usageCount="13" lastUsage="1728888547759" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/common}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/overlays}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/overlays}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/overlays/com.zesware.common-0.4.5-snapshot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/ems_isms2/ems/ems/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Maven.er" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2445099" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.4386828" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.2365632" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Casbin Executor" order="6" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3302089" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.2365632" left="0.2445099" right="0.3302089" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Notifications</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1209" y="380" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1728865069491">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1209" y="380" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728865069491" />
+    <state x="1097" y="296" key="#프로젝트_구조" timestamp="1728620074026">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1097" y="296" key="#프로젝트_구조/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728620074026" />
+    <state x="1397" y="477" key="FileChooserDialogImpl" timestamp="1728620036109">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1397" y="477" key="FileChooserDialogImpl/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728620036109" />
+    <state width="1801" height="280" key="GridCell.Tab.0.bottom" timestamp="1728869730404">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1801" height="280" key="GridCell.Tab.0.bottom/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728869730404" />
+    <state width="1801" height="280" key="GridCell.Tab.0.center" timestamp="1728869730404">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1801" height="280" key="GridCell.Tab.0.center/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728869730404" />
+    <state width="1801" height="280" key="GridCell.Tab.0.left" timestamp="1728869730404">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1801" height="280" key="GridCell.Tab.0.left/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728869730404" />
+    <state width="1801" height="280" key="GridCell.Tab.0.right" timestamp="1728869730404">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1801" height="280" key="GridCell.Tab.0.right/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728869730404" />
+    <state x="1079" y="275" key="SettingsEditor" timestamp="1728865054077">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1079" y="275" key="SettingsEditor/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728865054077" />
+    <state x="132" y="33" width="2021" height="1282" key="find.popup" timestamp="1728885835007">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="132" y="33" width="2021" height="1282" key="find.popup/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728885835007" />
+    <state x="946" y="81" width="1491" height="1282" key="find.popup/0.0.2560.1392/2560.0.2560.1392@2560.0.2560.1392" timestamp="1728630174379" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/classes/com/zesware/common/authentication/filter/ZebraExceptionTranslationFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authorization/types/AccessControll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/overlays/com.zesware.common-0.4.5-snapshot/WEB-INF/classes/spring/service/context-security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2392">
+          <caret line="104" column="17" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="167" column="59" lean-forward="true" selection-start-line="167" selection-start-column="59" selection-end-line="167" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3550966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>패싯이 구성되지 않았습니다</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3550966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ems</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3550966" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3550966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,1650 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/main/StatusBoardMapper.xml" />
+              <entry key="line" value="85" />
+            </attributes>
+            <option name="description" value="&lt;select id=&quot;getStudyVerifyStatusList&quot; parameterType=&quot;StudyVerifyModel&quot; resultType=&quot;com.sptek.fdvs.dto.response.admin.VerifyResponse&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="62" />
+            </attributes>
+            <option name="description" value="&lt;!-- 학습 검증 이력 쿼리  본문 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="380" />
+            </attributes>
+            <option name="description" value="&lt;!-- 결과 차단 리스트 중 샘플링 데이타 리스트 조회 (엑셀 다운로드용) --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="372" />
+            </attributes>
+            <option name="description" value="&lt;!-- 결과 차단 데이터 리스트 조회  (팝업) --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="306" />
+            </attributes>
+            <option name="description" value="&lt;!-- 학습 검증 이력 검증 결과 UPDATE --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="254" />
+            </attributes>
+            <option name="description" value="&lt;!-- 학습 검증 이력 상세 정보 (팝업 화면) --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="227" />
+            </attributes>
+            <option name="description" value="&lt;!-- 메시지 기준일자에 해당하는 스팸 태깅 파일 정보 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="215" />
+            </attributes>
+            <option name="description" value="&lt;!-- 메시지 기준일자에 해당하는 스팸 태깅 메시지 정보 존재 여부--&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="205" />
+            </attributes>
+            <option name="description" value="&lt;!-- 메시지 기준일자에 해당하는 스팸 태깅 파일 정보 존재 여부 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="144" />
+            </attributes>
+            <option name="description" value="&lt;!-- 학습 검증 이력  등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/property/url-map.xml" />
+              <entry key="line" value="28" />
+            </attributes>
+            <option name="description" value="&lt;url&gt;/**/studyVerify/deleteStudyVerify.json&lt;/url&gt;&#9;&#9;&lt;!-- 학습결과 검증 삭제 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_msgVrfBlockForm.jsp" />
+              <entry key="line" value="146" />
+            </attributes>
+            <option name="description" value="url: '${ROOT_PATH}/studyVerify/getMsgVrfBlockList.json'," />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_studyVerifyDetailForm.jsp" />
+              <entry key="line" value="215" />
+            </attributes>
+            <option name="description" value="var _errCffRt = _$studyVerifyDetailModal.find('[name=&quot;errCffRt&quot;]').val();&#9;&#9;&#9;/* 오차단율 */" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_studyVerifyDetailForm.jsp" />
+              <entry key="line" value="211" />
+            </attributes>
+            <option name="description" value="/* [검증 최종완료] 버튼 클릭 */" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml" />
+              <entry key="line" value="2" />
+            </attributes>
+            <option name="description" value="&lt;mapper namespace=&quot;StudyVerifyDaoImpl&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/impl/StudyVerifyServiceImpl.java" />
+              <entry key="line" value="57" />
+            </attributes>
+            <option name="description" value="public class StudyVerifyServiceImpl implements StudyVerifyService {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/StudyVerifyService.java" />
+              <entry key="line" value="21" />
+            </attributes>
+            <option name="description" value="public interface StudyVerifyService {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/model/verify/StudyVerifyModel.java" />
+              <entry key="line" value="22" />
+            </attributes>
+            <option name="description" value="public class StudyVerifyModel extends BaseModel {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/mgr/VerifyAsyncMgr.java" />
+              <entry key="line" value="117" />
+            </attributes>
+            <option name="description" value="public void verifyMsg(VerifyModel verifyModel) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/mgr/VerifyAsyncMgr.java" />
+              <entry key="line" value="57" />
+            </attributes>
+            <option name="description" value="public void verifyStudyMsg(StudyVerifyModel studyVerifyModel) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/mgr/VerifyAsyncMgr.java" />
+              <entry key="line" value="34" />
+            </attributes>
+            <option name="description" value="public class VerifyAsyncMgr {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/verify/impl/StudyVerifyDaoImpl.java" />
+              <entry key="line" value="24" />
+            </attributes>
+            <option name="description" value="public class StudyVerifyDaoImpl extends DefaultDao implements StudyVerifyDao {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/verify/StudyVerifyDao.java" />
+              <entry key="line" value="19" />
+            </attributes>
+            <option name="description" value="public interface StudyVerifyDao {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="default" value="true" />
+        <option name="name" value="학습결과검증" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/urlBlock/MariaUrlBlockMapper.xml" />
+              <entry key="line" value="5" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS ADM URL 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaStringBlockMapper.xml" />
+              <entry key="line" value="140" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS 스팸 문자열 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaStringBlockMapper.xml" />
+              <entry key="line" value="144" />
+            </attributes>
+            <option name="description" value="SFS_SPAM_STRING" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaStringBlockMapper.xml" />
+              <entry key="line" value="120" />
+            </attributes>
+            <option name="description" value="SFS_SPAM_STRING" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaSentenceBlockMapper.xml" />
+              <entry key="line" value="140" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS 스팸 문장 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaSentenceBlockMapper.xml" />
+              <entry key="line" value="126" />
+            </attributes>
+            <option name="description" value="&lt;!-- 문장 차단 적용 구분 업데이트 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/UrlBlockMapper.xml" />
+              <entry key="line" value="141" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS ADM URL 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/UrlBlockMapper.xml" />
+              <entry key="line" value="127" />
+            </attributes>
+            <option name="description" value="&lt;!-- URL 차단 적용 구분 업데이트 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/UrlBlockMapper.xml" />
+              <entry key="line" value="59" />
+            </attributes>
+            <option name="description" value="&lt;!-- URL 차단 본문 조건절 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/UrlBlockMapper.xml" />
+              <entry key="line" value="39" />
+            </attributes>
+            <option name="description" value="&lt;!-- URL 차단 쿼리 본문 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml" />
+              <entry key="line" value="140" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS 스팸 문자열 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml" />
+              <entry key="line" value="102" />
+            </attributes>
+            <option name="description" value="&lt;!-- 문자열 차단 등록 요청 상태 변경 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml" />
+              <entry key="line" value="126" />
+            </attributes>
+            <option name="description" value="&lt;!-- 문자열 차단 적용 구분 업데이트 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml" />
+              <entry key="line" value="143" />
+            </attributes>
+            <option name="description" value="INSERT INTO" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml" />
+              <entry key="line" value="114" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS 스팸 문자열 차단 조회 확인 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/SentenceBlockMapper.xml" />
+              <entry key="line" value="140" />
+            </attributes>
+            <option name="description" value="&lt;!-- SFS 스팸 문장 차단 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/SentenceBlockMapper.xml" />
+              <entry key="line" value="127" />
+            </attributes>
+            <option name="description" value="&lt;update id=&quot;updateSentenceCffAplyCl&quot; parameterType=&quot;BlockModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/SentenceBlockMapper.xml" />
+              <entry key="line" value="38" />
+            </attributes>
+            <option name="description" value="&lt;!-- 문장 차단 쿼리 본문 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaSentenceBlockMapper.xml" />
+              <entry key="line" value="38" />
+            </attributes>
+            <option name="description" value="&lt;!-- 문장 차단 쿼리 본문 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/massage/impl/StudyDataUploadDaoImpl.java" />
+              <entry key="line" value="35" />
+            </attributes>
+            <option name="description" value="public void insertStudyDataUpload(StudyDataUploadHistModel model) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/massage/impl/StudyDataUploadServiceImpl.java" />
+              <entry key="line" value="88" />
+            </attributes>
+            <option name="description" value="public void uploadStudyDataFile(HttpServletRequest request, MultipartHttpServletRequest req) throws Exception {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/massage/StudyDataUploadService.java" />
+              <entry key="line" value="24" />
+            </attributes>
+            <option name="description" value="public interface StudyDataUploadService {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/StudyDataUploadController.java" />
+              <entry key="line" value="44" />
+            </attributes>
+            <option name="description" value="public class StudyDataUploadController extends BaseController {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="학습1단계" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DynmStudyInfoMapper.xml" />
+              <entry key="line" value="207" />
+            </attributes>
+            <option name="description" value="&lt;!-- 동적필터링 학습 메시지 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DynmStudyInfoMapper.xml" />
+              <entry key="line" value="193" />
+            </attributes>
+            <option name="description" value="&lt;!-- 동적 필터링 학습 대상 메시지 리스트 조회 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DynmStudyInfoMapper.xml" />
+              <entry key="line" value="150" />
+            </attributes>
+            <option name="description" value="&lt;!-- 동적필터링 학습 정보 등록 --&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="학습2단계" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DeepMdlInfoMapper.xml" />
+              <entry key="line" value="448" />
+            </attributes>
+            <option name="description" value="&lt;select id=&quot;getCompleteDeepMdlList&quot; parameterType=&quot;DeepMdlInfoModel&quot; resultType=&quot;DeepMdlInfoModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DeepMdlInfoMapper.xml" />
+              <entry key="line" value="366" />
+            </attributes>
+            <option name="description" value="&lt;update id=&quot;updateDeepMdlInfo&quot; parameterType=&quot;DeepMdlInfoModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DeepMdlInfoMapper.xml" />
+              <entry key="line" value="306" />
+            </attributes>
+            <option name="description" value="&lt;insert id=&quot;insertDeepMdlInfo&quot; parameterType=&quot;DeepMdlInfoModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DeepMdlInfoMapper.xml" />
+              <entry key="line" value="218" />
+            </attributes>
+            <option name="description" value="&lt;select id=&quot;getExcelDeepMdlInfoList&quot; parameterType=&quot;DeepMdlInfoModel&quot; resultType=&quot;DeepMdlInfoModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="학습3단계" />
+      </GroupState>
+      <GroupState>
+        <option name="name" value="학습1,2단계와 모델 완료 관계" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="926" />
+            </attributes>
+            <option name="description" value="// API 모델 생성 상태조회" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="1080" />
+            </attributes>
+            <option name="description" value="log.info(String.format(&quot;[Success Deep Learning Api Call] payload: %s&quot;, responseInfo.getJsonObject().toJson()));" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="1141" />
+            </attributes>
+            <option name="description" value="log.debug(&quot;deepLearningMonitoring status check 05 updateBefore &quot; + deepMdl.getMdlId() + &quot; : mdlCrtRslt=&quot; + deepMdl.getMdlCrtRslt() );" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="1128" />
+            </attributes>
+            <option name="description" value="log.debug(&quot;deepLearningMonitoring status check 03 updateBefore &quot; + deepMdl.getMdlId() + &quot; : mdlCrtRslt=&quot; + deepMdl.getMdlCrtRslt() );" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="1041" />
+            </attributes>
+            <option name="description" value="* 딥러닝 생성 완료 API 호출" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="1107" />
+            </attributes>
+            <option name="description" value="// 딥러닝 모델 상태 완료로 수정" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="978" />
+            </attributes>
+            <option name="description" value="// -- 전송 실패시 모델 중지 (결과: 에러)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="964" />
+            </attributes>
+            <option name="description" value="deepMdl.setMdlCrtStat(&quot;03&quot;); // 모댈 생성 진행 상태 - 진행중" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="966" />
+            </attributes>
+            <option name="description" value="// 딥러닝 완료 상태" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="940" />
+            </attributes>
+            <option name="description" value="log.info(String.format(&quot;[Getstatus Deep Learning Api Call] payload: %s&quot;, responseInfo.getJsonObject().toJson()));" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="951" />
+            </attributes>
+            <option name="description" value="log.debug(&quot;deepLearningMonitoring status check &quot; + resp.getModelID() + &quot; : &quot; + resp.getStatus() + &quot; / &quot; +" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="903" />
+            </attributes>
+            <option name="description" value="public void deepLearningMonitoring() throws Exception {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="678" />
+            </attributes>
+            <option name="description" value="// 딥러닝 모댈 생성 API 호출 실패 시 시스템사용현황 '사용안함'으로 변경" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="663" />
+            </attributes>
+            <option name="description" value="// 딥러닝 모델 생성 API 생성 호출 결과 error시 시스템사용현황 '사용안함'으로 변경" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="654" />
+            </attributes>
+            <option name="description" value="// 생성 API 결과 코드 1000, 1101 &amp;&amp; 결과값 모델ID 일치 할 경우 정상상태로 진행" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="416" />
+            </attributes>
+            <option name="description" value="// 1. 딥러닝 모델 생성 이력 insert (진행상태 : 시작 )" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="375" />
+            </attributes>
+            <option name="description" value="// 2. 딥러닝 모델 적용 메시지 조회 (Training) [ 조회 조건 : Training Data set, 어제 기준으로 2년전 데이터 ]" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="385" />
+            </attributes>
+            <option name="description" value="// 3. 딥러닝 모델 적용 메시지 조회 (False Alarm) [ 조회 조건 : False Alarm Data set, 어제 기준으로 2년전 데이터 ]" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="441" />
+            </attributes>
+            <option name="description" value="// 4. 딥러닝 모델 상태 조회 (결과 : 취소인 경우 스톱)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="449" />
+            </attributes>
+            <option name="description" value="// 5. 딥러닝 모델 상태값 update (진행상태 : 준비중)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/DeepMdlInfoService.java" />
+              <entry key="line" value="86" />
+            </attributes>
+            <option name="description" value="void createDeepMdl(DeepMdlInfoModel deepMdlInfo) throws Exception;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="455" />
+            </attributes>
+            <option name="description" value="// 6. Training 메시지 file로 생성" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="493" />
+            </attributes>
+            <option name="description" value="// 7. False Alarm 메시지 file로 생성" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="572" />
+            </attributes>
+            <option name="description" value="// 10. 서버에 만들어진 Training file 삭제" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="574" />
+            </attributes>
+            <option name="description" value="// 11. 서버에 만들어진 False Alarm file 삭제" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="577" />
+            </attributes>
+            <option name="description" value="// 12. 딥러닝 모델 상태 조회 (결과 : 취소인 경우 스톱)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="580" />
+            </attributes>
+            <option name="description" value="// 13. API 통신 (모델 생성 시작)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="656" />
+            </attributes>
+            <option name="description" value="// 14. 딥러닝 모델 생성 이력 상태 값 update (진행상태 : 진행중)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java" />
+              <entry key="line" value="302" />
+            </attributes>
+            <option name="description" value="public void createDeepMdl(DeepMdlInfoModel deepMdlInfo) throws Exception {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/DeepMdlInfoController.java" />
+              <entry key="line" value="249" />
+            </attributes>
+            <option name="description" value="* 딥러닝 모델 생성" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/DeepMdlInfoController.java" />
+              <entry key="line" value="83" />
+            </attributes>
+            <option name="description" value="public ModelAndView getList(HttpServletRequest request, HttpServletResponse response) throws Exception {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="딥러닝 모델 생성 상태" />
+      </GroupState>
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs-doc/sql-script/db_schema_fdvs_create.sql" />
+              <entry key="line" value="941" />
+            </attributes>
+            <option name="description" value="COMMENT ON COLUMN FDVS_WRK_GRP_STAT.WRK_GRP IS '작업 그룹 (RD-상용딥러닝적용, VD-검증기딥러닝적용, RP-상용소액결제딥러닝적용, VP-검증기소액결제딥러닝적용)';" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/sysstat/WrkGrpStatMapper.xml" />
+              <entry key="line" value="16" />
+            </attributes>
+            <option name="description" value="&lt;update id=&quot;updateWrkGrpStat&quot; parameterType=&quot;WrkGrpStatModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/sysstat/impl/WrkGrpStatDaoImpl.java" />
+              <entry key="line" value="42" />
+            </attributes>
+            <option name="description" value="public int updateWrkGrpStat(WrkGrpStatModel wrkGrpStatModel) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/sysstat/impl/WrkGrpStatServiceImpl.java" />
+              <entry key="line" value="93" />
+            </attributes>
+            <option name="description" value="public void updateWrkStatOff(WrkGrpStatModel wrkGrpStatModel) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/admin/MariaSfsConfMapper.xml" />
+              <entry key="line" value="30" />
+            </attributes>
+            <option name="description" value="&lt;select id=&quot;getSfsConf&quot; parameterType=&quot;SfsConfModel&quot; resultType=&quot;SfsConfModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/MdlApplyInfoServiceImpl.java" />
+              <entry key="line" value="137" />
+            </attributes>
+            <option name="description" value="for (String sysId : model.getSysIdArray()) {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/MdlApplyInfoServiceImpl.java" />
+              <entry key="line" value="100" />
+            </attributes>
+            <option name="description" value="* 딥러닝 모델 검증기/상용기 적용" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/MdlApplyInfoMapper.xml" />
+              <entry key="line" value="77" />
+            </attributes>
+            <option name="description" value="&lt;update id=&quot;applyMdlInfoMerge&quot; parameterType=&quot;MdlApplyInfoModel&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/MdlVrfApplyInfoController.java" />
+              <entry key="line" value="117" />
+            </attributes>
+            <option name="description" value="mdlApplyInfoService.applyMdlInfo(mdlApplyInfo, wrkGrpStatModel);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/MdlVrfApplyInfoController.java" />
+              <entry key="line" value="104" />
+            </attributes>
+            <option name="description" value="@RequestMapping(value = &quot;/applyMdlVrfInfo&quot;, method = RequestMethod.POST)" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="딥러닝 모델 검증기" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
+              <folding>
+                <element signature="method#cancelDeepMdlInfo#0;class#DeepMdlInfoServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/DeepMdlInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="219" selection-start-line="219" selection-end-line="219" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/MsgInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/StudyVerifyService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/impl/StudyVerifyServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5336">
+              <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/main/StatusBoardMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_studyVerifyDetailForm.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="215" column="26" selection-start-line="215" selection-start-column="26" selection-end-line="215" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_msgVrfBlockForm.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/property/url-map.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1720509940671" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="50" lastUsed="1723083257935" />
+    </fileType>
+    <fileType name="JSP">
+      <summary usageCount="2" lastUsed="1723083325692" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="6" lastUsed="1722471012963" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="6" lastUsed="1721880646252" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="1" lastUsed="1720508059950" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="35" lastUsed="1723083813653" />
+    </fileType>
+    <fileType name="solon-properties-file">
+      <summary usageCount="4" lastUsed="1721880646228" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;env</find>
+      <find>vrfapply/list</find>
+      <find>applyMdlInfo</find>
+      <find>updateWrkStatOff</find>
+      <find>getSfsConf</find>
+      <find>updateWrkGrpStat</find>
+      <find>RP</find>
+      <find>#### login users count</find>
+      <find>neo</find>
+      <find>MsgInfoController</find>
+      <find>createDeepMdl</find>
+      <find>Success Deep Learning Api Call\]</find>
+      <find>deep\.scheduled\.period</find>
+      <find>deep.api.getstatus</find>
+      <find>getstatus</find>
+      <find>study</find>
+      <find>ifmdLog</find>
+      <find />
+      <find>SFS_HAM_STRING</find>
+      <find>SFS_SPAM_STRING</find>
+      <find>insertSFSSpamSentenceBlock</find>
+      <find>검증</find>
+      <find>StudyVerify</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\service\sysstat</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\dao\admin</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\dao\sysstat\impl</dir>
+      <dir>D:\git-spam\fdvs\fdvs</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\service\study</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\configuration</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\controller\study</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\service\study\impl</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\controller\massage</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\service\massage\impl</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\resources\com\sptek\fdvs\mapper\study</dir>
+      <dir>D:\git-spam\fdvs\fdvs\src\main\java\com\sptek\fdvs\dao\verify</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/fdvs/pom.xml" />
+      <option value="$PROJECT_DIR$/fdvs-doc/repository/settings.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="50" lastUsage="1723083257935" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="10" lastUsage="1721880646252" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="6" lastUsage="1722471012963" />
+    </language>
+    <language id="XML">
+      <summary usageCount="35" lastUsage="1723083813653" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="프로파일" type="f3800865:ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="FDVS project" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="FDVS project" type="20da4fc8:ProjectNode" />
+          <item name="수명 주기" type="d32bdb1e:LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="FDVS project" type="20da4fc8:ProjectNode" />
+          <item name="FDVS" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="FDVS project" type="20da4fc8:ProjectNode" />
+          <item name="FDVS common" type="20da4fc8:ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/conf}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper/massage}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper/sample}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fdvs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/fdvs/fdvs/src/main/resources/com/sptek/fdvs/mapper/study}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Smart Tomcat.fdvs" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" id="Bookmarks" sideWeight="0.6930486" side_tool="true" visible="true" weight="0.3250998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.30720872" visible="true" weight="0.279015" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33345866" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.42969924" />
+      <window_info anchor="bottom" id="Casbin Executor" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.10997496" />
+      <unified_weights bottom="0.33345866" left="0.3250998" right="0.10997496" />
+    </layoutV2>
+    <recentWindows>
+      <value>Bookmarks</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1263" y="408" width="816" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720512404113">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1263" y="408" width="816" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720512404113" />
+    <state x="1400" y="551" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1720512113203">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1400" y="551" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720512113203" />
+    <state x="1199" y="495" key="FileChooserDialogImpl" timestamp="1722211208969">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1199" y="495" key="FileChooserDialogImpl/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1722211208969" />
+    <state width="2187" height="411" key="GridCell.Tab.0.bottom" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.0.bottom/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.0.center" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.0.center/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.0.left" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.0.left/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.0.right" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.0.right/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.1.bottom" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.1.bottom/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.1.center" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.1.center/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.1.left" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.1.left/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.1.right" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.1.right/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.2.bottom" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.2.bottom/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.2.center" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.2.center/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.2.left" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.2.left/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state width="2187" height="411" key="GridCell.Tab.2.right" timestamp="1720748498618">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="2187" height="411" key="GridCell.Tab.2.right/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720748498618" />
+    <state x="996" y="302" width="1471" height="1002" key="SettingsEditor" timestamp="1720512526974">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="996" y="302" width="1471" height="1002" key="SettingsEditor/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720512526974" />
+    <state x="2617" y="94" width="1328" height="1245" key="find.popup" timestamp="1723084133563">
+      <screen x="2560" y="0" width="2560" height="1392" />
+    </state>
+    <state x="2617" y="94" width="1328" height="1245" key="find.popup/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1723084133563" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/MdlVrfApplyInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="117" column="37" lean-forward="true" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/MdlApplyInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/admin/SfsConfDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/MdlApplyInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="191" column="40" selection-start-line="191" selection-start-column="40" selection-end-line="191" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/SqlSessionTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="115" column="78" lean-forward="true" selection-start-line="115" selection-start-column="78" selection-end-line="115" selection-end-column="78" />
+          <folding>
+            <element signature="e#5215#5216#0" expanded="true" />
+            <element signature="e#5287#5288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/sysstat/WrkGrpStatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/sysstat/impl/WrkGrpStatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/sysstat/WrkGrpStatDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/sysstat/impl/WrkGrpStatDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/deploy.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="87" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6762">
+          <caret line="294" column="60" selection-start-line="294" selection-start-column="60" selection-end-line="294" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/conf/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/MsgApplyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/AdminBlockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="78" column="19" selection-start-line="78" selection-start-column="19" selection-end-line="78" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3772">
+          <caret line="164" column="31" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/configuration/ScheduleConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/DeepMdlInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1771">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs-common/src/main/java/com/sptek/fdvs/commons/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.9.RELEASE/spring-webmvc-4.3.9.RELEASE-sources.jar!/org/springframework/web/servlet/ModelAndView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="338" column="5" lean-forward="true" selection-start-line="338" selection-start-column="5" selection-end-line="338" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/StudyDataUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="107" column="41" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/massage/StudyDataUploadService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/massage/StudyDataUploadDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/massage/impl/StudyDataUploadDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="method#insertStudyDataUpload#0;class#StudyDataUploadDaoImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/study/impl/DeepMdlInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <element signature="method#cancelDeepMdlInfo#0;class#DeepMdlInfoServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/study/DeepMdlInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="219" selection-start-line="219" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/controller/massage/MsgInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/massage/impl/StudyDataUploadServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="94" column="9" lean-forward="true" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/MdlApplyInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2092" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/StringBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/UrlBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="124" column="27" lean-forward="true" selection-start-line="124" selection-start-column="27" selection-end-line="124" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaSentenceBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="139" column="4" lean-forward="true" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/admin/MariaSfsConfMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-519">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/sample/SampleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DynmStudyInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="204" column="13" lean-forward="true" selection-start-line="204" selection-start-column="13" selection-end-line="204" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/urlBlock/MariaUrlBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/maria/study/MariaStringBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="122" column="36" lean-forward="true" selection-start-line="122" selection-start-column="36" selection-end-line="122" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/SentenceBlockMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="141" column="42" selection-start-line="141" selection-start-column="16" selection-end-line="141" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/study/DeepMdlInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="312" column="22" selection-start-line="312" selection-start-column="22" selection-end-line="312" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/verify/StudyVerifyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/dao/verify/impl/StudyVerifyDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/mgr/VerifyAsyncMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="71" column="41" lean-forward="true" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/model/verify/StudyVerifyModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/StudyVerifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/java/com/sptek/fdvs/service/verify/impl/StudyVerifyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_studyVerifyDetailForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="215" column="26" selection-start-line="215" selection-start-column="26" selection-end-line="215" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/webapp/WEB-INF/views/studyVerify/popup_msgVrfBlockForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="146" column="31" selection-start-line="146" selection-start-column="31" selection-end-line="146" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/property/url-map.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/verify/StudyVerifyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5336">
+          <caret line="101" column="33" selection-start-line="101" selection-start-column="33" selection-end-line="101" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdvs/src/main/resources/com/sptek/fdvs/mapper/main/StatusBoardMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>패싯이 구성되지 않았습니다</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FDVS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45632184" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.45632184" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

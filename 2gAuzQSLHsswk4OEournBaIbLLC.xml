@@ -1,0 +1,261 @@
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1715153081574" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1715153126833" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="3" lastUsed="1715153112867" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1715153081574" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1715153126833" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1715153112867" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/SpringCodes/SpringCodes/src/main/resources/archetype-resources/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24129747" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.27896082" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.27896082" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Casbin Executor" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.27896082" left="0.24129747" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1830" height="295" key="GridCell.Tab.0.bottom" timestamp="1715153192737">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1830" height="295" key="GridCell.Tab.0.bottom/3840.0.2048.1094/0.0.2560.1392@0.0.2560.1392" timestamp="1715153192737" />
+    <state width="1830" height="295" key="GridCell.Tab.0.center" timestamp="1715153192737">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1830" height="295" key="GridCell.Tab.0.center/3840.0.2048.1094/0.0.2560.1392@0.0.2560.1392" timestamp="1715153192737" />
+    <state width="1830" height="295" key="GridCell.Tab.0.left" timestamp="1715153192737">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1830" height="295" key="GridCell.Tab.0.left/3840.0.2048.1094/0.0.2560.1392@0.0.2560.1392" timestamp="1715153192737" />
+    <state width="1830" height="295" key="GridCell.Tab.0.right" timestamp="1715153192737">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1830" height="295" key="GridCell.Tab.0.right/3840.0.2048.1094/0.0.2560.1392@0.0.2560.1392" timestamp="1715153192737" />
+    <state x="1782" y="613" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1715153066852">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1782" y="613" key="git4idea.remote.GitConfigureRemotesDialog/3840.0.2048.1094/0.0.2560.1392@0.0.2560.1392" timestamp="1715153066852" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

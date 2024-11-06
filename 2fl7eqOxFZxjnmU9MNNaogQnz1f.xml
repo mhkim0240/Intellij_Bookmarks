@@ -1,0 +1,583 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ems" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/ems/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/src/main/java/com/incross/ems/common/batch/RecBatchExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/conf/app.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/src/main/java/com/incross/ems/ext/SMASessionMgr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29601">
+              <caret line="1307" column="8" selection-start-line="1307" selection-start-column="8" selection-end-line="1307" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/general/entities/GenericConditions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authentication/entities/EtcUserAlarmNotiVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authentication/entities/UserVO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ems/src/main/resources/spring/service/context-common.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="13" lastUsed="1714443323387" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="6" lastUsed="1714443322491" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="11" lastUsed="1714443323508" />
+    </fileType>
+    <fileType name="solon-properties-file">
+      <summary usageCount="2" lastUsed="1714443323006" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>21</find>
+      <find>SMSC_MMSC_ID</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\git-spam2\ems\common</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ems/pom.xml" />
+      <option value="$PROJECT_DIR$/ems/src/main/resources/spring/service/context-common.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="13" lastUsage="1714443323387" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1714443322491" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1714443323006" />
+    </language>
+    <language id="XML">
+      <summary usageCount="11" lastUsage="1714443323508" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="프로파일" type="f3800865:ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="Spam EMS System" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="Spam EMS System" type="20da4fc8:ProjectNode" />
+          <item name="수명 주기" type="d32bdb1e:LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="Spam EMS System" type="20da4fc8:ProjectNode" />
+          <item name="실행 구성" type="ecc18a9c:RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources/spring}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources/spring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/ems/ems/src/main/resources/spring/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Smart Tomcat.ems" />
+      <element setting="Maven.ER" />
+      <element setting="Maven.이름이 지정되지 않았습니다" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="로컬">
+        <shellCommand>
+          <arg value="powershell.exe" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17871094" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3301006" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3301006" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3301006" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.3301006" />
+      <window_info anchor="bottom" id="Build" order="6" visible="true" weight="0.3301006" />
+      <window_info anchor="bottom" id="Casbin Executor" order="7" weight="0.3301006" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.16035156" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.3298828" />
+      <unified_weights bottom="0.3301006" left="0.17871094" right="0.16035156" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Services</value>
+      <value>Notifications</value>
+      <value>Casbin Executor</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Coverage</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4373" y="162" width="1413" height="903" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1714440192936">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4373" y="162" width="1413" height="903" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440192936" />
+    <state x="4714" y="372" width="870" height="696" key="#실행/디버그_구성_템플릿" timestamp="1714366114045">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4714" y="372" width="870" height="696" key="#실행/디버그_구성_템플릿/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366114045" />
+    <state x="4600" y="264" key="#프로젝트_구조" timestamp="1714372877927">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4600" y="264" key="#프로젝트_구조/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714372877927" />
+    <state x="4872" y="470" key="EnvironmentVariablesDialog" timestamp="1714364332891">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4872" y="470" key="EnvironmentVariablesDialog/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714364332891" />
+    <state x="4902" y="455" key="FileChooserDialogImpl" timestamp="1714367967946">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4902" y="455" key="FileChooserDialogImpl/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714367967946" />
+    <state width="2478" height="417" key="GridCell.Tab.0.bottom" timestamp="1714440336452">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.0.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440336452" />
+    <state width="2478" height="417" key="GridCell.Tab.0.center" timestamp="1714440336452">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.0.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440336452" />
+    <state width="2478" height="417" key="GridCell.Tab.0.left" timestamp="1714440336452">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.0.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440336452" />
+    <state width="2478" height="417" key="GridCell.Tab.0.right" timestamp="1714440336452">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.0.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440336452" />
+    <state width="2478" height="417" key="GridCell.Tab.1.bottom" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.1.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.1.center" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.1.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.1.left" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.1.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.1.right" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.1.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.2.bottom" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.2.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.2.center" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.2.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.2.left" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.2.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state width="2478" height="417" key="GridCell.Tab.2.right" timestamp="1714366091448">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2478" height="417" key="GridCell.Tab.2.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714366091448" />
+    <state x="4286" y="380" key="NewModule_or_Project.wizard" timestamp="1714367093155">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4286" y="380" key="NewModule_or_Project.wizard/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714367093155" />
+    <state x="4285" y="218" width="1717" height="1113" key="SettingsEditor" timestamp="1714440327499">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4285" y="218" width="1717" height="1113" key="SettingsEditor/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714440327499" />
+    <state x="4529" y="536" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1714367116379">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4529" y="536" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714367116379" />
+    <state x="4849" y="134" width="1408" height="1121" key="find.popup" timestamp="1714377063317">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4849" y="134" width="1408" height="1121" key="find.popup/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714377063317" />
+    <state x="4663" y="342" width="913" height="707" key="new project wizard" timestamp="1714365721115">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4663" y="342" width="913" height="707" key="new project wizard/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714365721115" />
+    <state x="4777" y="324" key="run.anything.popup" timestamp="1714364103138">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4777" y="324" key="run.anything.popup/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714364103138" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/ems/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="46">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/src/main/java/com/incross/ems/common/batch/RecBatchExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/conf/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/src/main/java/com/incross/ems/ext/SMASessionMgr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29601">
+          <caret line="1307" column="8" selection-start-line="1307" selection-start-column="8" selection-end-line="1307" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/general/entities/GenericConditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authentication/entities/EtcUserAlarmNotiVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/zesware/common/authentication/entities/UserVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/src/main/resources/spring/service/context-common.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ems/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>패싯이 구성되지 않았습니다</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ems</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

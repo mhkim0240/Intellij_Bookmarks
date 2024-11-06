@@ -1,0 +1,362 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="web" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/FilterChainProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#17485#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/AuthenticationEntryPoint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1956#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/DefaultRedirectStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#4267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/SecurityFilterChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#1149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/springframework/security/web/csrf/CsrfAuthenticationStrategyTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#6070#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="5" lastUsed="1728888637093" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="5" lastUsage="1728888637093" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security/web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security/web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security/web/aot}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security/web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/java/org/springframework/security/web/jackson2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org/springframework}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/main/resources/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security/web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security/web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-my/Spring-Security/spring-security/web/src/test/java/org/springframework/security/web/csrf}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23800835" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.3300551" />
+      <window_info anchor="bottom" id="Casbin Executor" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.3297706" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3300551" left="0.23800835" right="0.3297706" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1194" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1728888732925">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1194" y="360" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1728888732925" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/FilterChainProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17485#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/AuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/DefaultRedirectStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#4267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/springframework/security/web/SecurityFilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="32" column="38" lean-forward="true" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/springframework/security/web/csrf/CsrfAuthenticationStrategyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#6070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

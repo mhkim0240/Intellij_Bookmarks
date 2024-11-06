@@ -1,0 +1,290 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="service_web" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/spamfiltering/history/sms/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-989">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/admin_web/common/service/Mtos2HistoryService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/exadb/HwfsUrlMapper.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/exadb/HistorySmsMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/mariadb_spam/SpamDataKisaMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="48" column="60" lean-forward="true" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1722211456603" />
+    </fileType>
+    <fileType name="JSP">
+      <summary usageCount="1" lastUsed="1722211421141" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1722211211114" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="3" lastUsed="1722211631739" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>차단 내역</find>
+      <find>MMSC</find>
+      <find>TM_SFS_SMS</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\git-spam2\service_web\src\main\resources\mapper\mariadb_spam</dir>
+      <dir>D:\git-spam2\service_web</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="D:\git-spam2\service_web" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1722211456603" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1722211211116" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1722211631739" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java/com}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/java/com/sptek/admin_web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/manual}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper/ems}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper/exadb}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam2/service_web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam2/service_web/src/main/resources/mapper/mariadb_spam}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2953854" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="Casbin Executor" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.2953854" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3259" y="262" width="1432" height="1119" key="find.popup" timestamp="1722211501471">
+      <screen x="2560" y="0" width="2560" height="1392" />
+    </state>
+    <state x="3259" y="262" width="1432" height="1119" key="find.popup/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1722211501471" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/spamfiltering/history/sms/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-989">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/admin_web/common/service/Mtos2HistoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/exadb/HwfsUrlMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/exadb/HistorySmsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="81" column="41" lean-forward="true" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/mariadb_spam/SpamDataKisaMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="48" column="60" lean-forward="true" selection-start-line="48" selection-start-column="60" selection-end-line="48" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

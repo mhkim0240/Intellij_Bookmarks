@@ -1,0 +1,790 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="shinhan-wrp-core" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/devops/dto/DevopsDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/mapper/CommonMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/mapper/WrTaskMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/model/Dashboard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/AttachFileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/DashboardDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/Paging.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WfActionDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="66" column="48" lean-forward="true" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WrTaskDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="class#WrTaskInfo#0;class#WrTaskDto#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/WrNegoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Dockerfile">
+      <summary usageCount="2" lastUsed="1707798225194" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="4" lastUsed="1707797695188" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="42" lastUsed="1707799067097" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="2" lastUsed="1707798183177" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1707112448129" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="6" lastUsed="1707798217102" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="1" lastUsed="1707798045278" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1707113317032" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="3" lastUsed="1707797814854" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="5" lastUsed="1707115514874" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="2" lastUsed="1707112440642" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>quartz_mysql</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\spring-learn\shinhan-wrp-project\shinhan-wrp-core\src\main\java\kr\co\strato\wrp\web\controller</dir>
+      <dir>D:\spring-learn\shinhan-wrp-project\shinhan-wrp-core\doc\sql</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isCustomScope" value="true" />
+    <option name="customScopeName" value="모든 위치" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1707798225194" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="4" lastUsage="1707797695188" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="42" lastUsage="1707799067097" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1707798183177" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1707112448129" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="6" lastUsage="1707798217102" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1707113317032" />
+    </language>
+    <language id="XML">
+      <summary usageCount="3" lastUsage="1707797814854" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1707112440642" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="5" lastUsage="1707115514874" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/doc}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/doc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/doc/sql}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/gradle}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/gradle}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/gradle/wrapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/libs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp/web}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp/web}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/main/java/kr/co/strato/wrp/web/controller}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shinhan-wrp-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/spring-learn/shinhan-wrp-project/shinhan-wrp-core/src/test/java/kr/co/strato/wrp}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.shinhan-wrp-core [build]" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="로컬" currentWorkingDirectory="D:\spring-learn\shinhan-wrp-project\shinhan-wrp-core\">
+        <shellCommand>
+          <arg value="powershell.exe" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" x="1227" y="237" width="457" height="1154" id="Project" order="0" visible="true" weight="0.28209144" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.16574368" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33030063" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.33030063" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.17917448" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.16574368" left="0.28209144" right="0.17917448" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1340" y="405" width="814" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1707113672105">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1340" y="405" width="814" height="718" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1707113672105" />
+    <state width="1517" height="375" key="GridCell.Tab.0.bottom" timestamp="1707799698415">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="1517" height="375" key="GridCell.Tab.0.bottom/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1707113743764" />
+    <state width="1517" height="375" key="GridCell.Tab.0.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1707799698415" />
+    <state width="1517" height="375" key="GridCell.Tab.0.center" timestamp="1707799698414">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="1517" height="375" key="GridCell.Tab.0.center/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1707113743764" />
+    <state width="1517" height="375" key="GridCell.Tab.0.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1707799698414" />
+    <state width="1517" height="375" key="GridCell.Tab.0.left" timestamp="1707799698414">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="1517" height="375" key="GridCell.Tab.0.left/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1707113743763" />
+    <state width="1517" height="375" key="GridCell.Tab.0.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1707799698414" />
+    <state width="1517" height="375" key="GridCell.Tab.0.right" timestamp="1707799698414">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="1517" height="375" key="GridCell.Tab.0.right/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1707113743764" />
+    <state width="1517" height="375" key="GridCell.Tab.0.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1707799698414" />
+    <state x="4511" y="239" width="689" height="560" key="find.popup" timestamp="1707798093379">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4511" y="239" width="689" height="560" key="find.popup/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1707798093379" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5455">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/resources/main/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/response/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/response/ApiResponseCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WfCommonCodeDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="58" column="11" lean-forward="true" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WfRoleDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-318">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/WrpCoreApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="8" column="100" lean-forward="true" selection-start-line="8" selection-start-column="100" selection-end-line="8" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/CommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WrTaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/CommonServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/DashboardServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WfActionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WfActionUseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WfMasterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WrAttachFileImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="37" column="56" lean-forward="true" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/service/impl/WfApproveItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/quartz.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/quartz.dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/CommonMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/sql/quartz_mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/shinhan-wrp-core.postman_collection.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3423">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/shinhan-wrp-env.postman_environment.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/silhouette/SilhouetteClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3744">
+          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/silhouette/SilhouetteComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/gitlab/GitLabClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/gitlab/GitLabComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/adapter/devops/dto/DevopsDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="45" column="32" lean-forward="true" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/mapper/CommonMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/mapper/WrTaskMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/model/Dashboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/AttachFileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/DashboardDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/Paging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WfActionDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="66" column="48" lean-forward="true" selection-start-line="66" selection-start-column="48" selection-end-line="66" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/dto/WrTaskDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="class#WrTaskInfo#0;class#WrTaskDto#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kr/co/strato/wrp/web/controller/WrNegoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1051 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="50" />
+            </attributes>
+            <option name="description" value="private Environment env;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="378" />
+            </attributes>
+            <option name="description" value=".scheme(env.getProperty(&quot;exporter.url.scheme&quot;,&quot;http&quot;))" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="178" />
+            </attributes>
+            <option name="description" value="List&lt;DmlDetail&gt; lst = dmlList.getDmlList();" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="96" />
+            </attributes>
+            <option name="description" value="dmlList = getCDCDataFromExporter(syncPosLog);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="202" />
+            </attributes>
+            <option name="description" value="public DmlList getCDCDataFromExporter(SyncPosLog syncPosLog) throws Exception {" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="155" />
+            </attributes>
+            <option name="description" value="syncPosLog.setIfId(mariaIfId);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="292" />
+            </attributes>
+            <option name="description" value="syncPosLog.setLastDataRecvDt(DateUtil.getCurrentDate(&quot;yyyyMMddHHmmss&quot;));" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/DmlDetail.java" />
+              <entry key="line" value="15" />
+            </attributes>
+            <option name="description" value="private long dmlSeq;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/resources/mapper/SyncDataMapper.xml" />
+              <entry key="line" value="8" />
+            </attributes>
+            <option name="description" value="&lt;insert id=&quot;insertSyncData&quot;&gt;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+              <entry key="line" value="410" />
+            </attributes>
+            <option name="description" value="applyCnt += syncDataMapper.insertSyncData(dmlDetail);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/job/DbSyncJob.java" />
+              <entry key="line" value="61" />
+            </attributes>
+            <option name="description" value="syncMariaDB" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/job/DbSyncJob.java" />
+              <entry key="line" value="26" />
+            </attributes>
+            <option name="description" value="private StandardEnvironment environment;" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="sgga" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/app.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/job/DbSyncJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1219">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+              <folding>
+                <element signature="docComment;method#excuteSyncDataList#0;class#SyncDataService#0" />
+                <element signature="e#11265#11397#1" />
+                <element signature="e#11483#11615#1" />
+                <element signature="e#11985#12266#0" />
+                <element signature="e#12298#12577#0" />
+                <element signature="e#12745#13491#0" />
+                <element signature="e#12820#12890#1" />
+                <element signature="e#12896#13487#1" />
+                <element signature="e#13037#13099#1" />
+                <element signature="e#13150#13217#1" />
+                <element signature="e#14086#14095#0" />
+                <element signature="docComment;method#makeBaseUrlStringMaria#0;class#SyncDataService#0" />
+                <element signature="method#excuteSyncRedis#0;class#SyncDataService#0" />
+                <element signature="e#15691#15722#0" />
+                <element signature="e#15789#15835#1" />
+                <element signature="e#15841#15887#1" />
+                <element signature="n#!!doc;n#setRedisDynmFilter#0;n#SyncDataService#0" />
+                <element signature="method#setRedisDynmFilter#0;class#SyncDataService#0" />
+                <element signature="e#16276#16713#1" />
+                <element signature="e#16346#16709#0" />
+                <element signature="e#16868#17136#1" />
+                <element signature="e#16972#17049#1" />
+                <element signature="e#17054#17132#1" />
+                <element signature="e#17187#17228#1" />
+                <element signature="e#17548#17569#1" />
+                <element signature="n#!!doc;n#delRedisDynmFilter#0;n#SyncDataService#0" />
+                <element signature="method#delRedisDynmFilter#0;class#SyncDataService#0" />
+                <element signature="e#17768#17903#1" />
+                <element signature="e#17838#17899#0" />
+                <element signature="method#updateIfFailLog#0;class#SyncDataService#0" />
+                <element signature="method#updateIfSuccessLog#0;class#SyncDataService#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/mapper/SyncDataMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/SyncSchedulerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1290#1291#0" expanded="true" />
+                <element signature="e#1362#1363#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SyncDataMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/manager/RestTemplateManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="13" lastUsed="1710736870856" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="4" lastUsed="1707809028629" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="158" lastUsed="1727656699476" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="24" lastUsed="1727656699490" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="41" lastUsed="1727656699296" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="66" lastUsed="1727656699446" />
+    </fileType>
+    <fileType name="solon-properties-file">
+      <summary usageCount="17" lastUsed="1727656699262" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="25" lastUsed="1714113178374" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@</find>
+      <find>@RestController</find>
+      <find>check</find>
+      <find>table</find>
+      <find>compare</find>
+      <find>mybatis</find>
+      <find>SVCE</find>
+      <find>SVCE_LOG_FILE</find>
+      <find>LOGROOT</find>
+      <find>logback-service.xml</find>
+      <find>SyncDataMapper</find>
+      <find>@Value</find>
+      <find>dmlColumnInfoModel</find>
+      <find>SGG_DML_QUEUE</find>
+      <find>tableNm</find>
+      <find>${tableNm}</find>
+      <find>SFS</find>
+      <find>socket</find>
+      <find>select for update</find>
+      <find>resultMs</find>
+      <find>INSERT INTO</find>
+      <find>@MAPPER</find>
+      <find>insertSyncData</find>
+      <find>DmlDetail</find>
+      <find>exporter.url.ip</find>
+      <find>Connect to</find>
+      <find>getCDCDataFromExporter</find>
+      <find>scheduling</find>
+      <find>SyncPosLog</find>
+      <find>syncMariaDB</find>
+      <find>encode</find>
+      <find>EUC-KR</find>
+      <find>CONVERT</find>
+      <find>JobsListerner</find>
+      <find>ResponseEntity</find>
+      <find>euc</find>
+      <find>CHARACTER</find>
+      <find>euckr</find>
+      <find>sgga</find>
+      <find />
+      <find>SpringApplicationBuilder</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\common\util</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\job</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\rest\manager</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\common\dao</dir>
+      <dir>D:\git-spam\sgga\src\main\resources\mapper</dir>
+      <dir>D:\git-spam\sgga\conf</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\rest\service</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\rest\mapper</dir>
+      <dir>D:\git-spam\sgga\src\main\java\com\sptek\sgg\sync\rest\model</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\java\com\sptek\sgg\sync\rest\manager</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\java\com\sptek\sgg\sync\job</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\java\com\sptek\sgg\common\util</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\java\com\sptek\sgg\sync\rest\service</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\resources\mapper</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\conf</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\resources\configuration\db</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga\src\main\java\com\sptek\sgg\sync</dir>
+      <dir>D:\git-spam\localtest-sgg\sgga</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/advice/ControllerAdvice.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/mapper/SyncDataMapper.java" />
+      <option value="$PROJECT_DIR$/conf/app.properties" />
+      <option value="$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java" />
+      <option value="$PROJECT_DIR$/conf/db.properties" />
+      <option value="$PROJECT_DIR$/src/main/resources/mapper/SyncDataMapper.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="158" lastUsage="1727656699476" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="58" lastUsage="1727656699296" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="24" lastUsage="1727656699490" />
+    </language>
+    <language id="XML">
+      <summary usageCount="66" lastUsage="1727656699446" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="25" lastUsage="1714113178374" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/common/util}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/log}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/sync}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/sync}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/sync/job}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/sync}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/java/com/sptek/sgg/sync/rest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/resources/configuration/db}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sgga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/git-spam/localtest-sgg/sgga/src/main/resources/mapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Smart Tomcat.sgga-tomcat" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" sideWeight="0.41400492" side_tool="true" weight="0.2193299" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5859951" visible="true" weight="0.21910402" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.38881168" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.14697707" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.27970815" />
+      <window_info anchor="bottom" auto_hide="true" x="4591" y="968" width="1462" height="354" id="Run" order="5" show_stripe_button="false" weight="0.31667864" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.27970815" />
+      <window_info anchor="bottom" id="Casbin Executor" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.31653926" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.11363636" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.31667864" left="0.21910402" right="0.11363636" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Bookmarks</value>
+      <value>Find</value>
+      <value>Services</value>
+      <value>Build</value>
+      <value>Version Control</value>
+      <value>Maven</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="136" width="1419" height="1095" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720051439209">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="735" y="136" width="1419" height="1095" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720051439209" />
+    <state x="4268" y="104" width="823" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714110384179" />
+    <state x="5227" y="484" key="FileChooserDialogImpl" timestamp="1714113786315">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="5227" y="484" key="FileChooserDialogImpl/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714113786315" />
+    <state width="2020" height="398" key="GridCell.Tab.0.bottom" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.0.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.0.center" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.0.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.0.left" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.0.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.0.right" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.0.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.1.bottom" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.1.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.1.center" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.1.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.1.left" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.1.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.1.right" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.1.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.2.bottom" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.2.bottom/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.2.center" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.2.center/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.2.left" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.2.left/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state width="2020" height="398" key="GridCell.Tab.2.right" timestamp="1714351540739">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state width="2020" height="398" key="GridCell.Tab.2.right/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714351540739" />
+    <state x="1589" y="0" width="971" height="1392" key="find.popup" timestamp="1720140994192">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1589" y="0" width="971" height="1392" key="find.popup/0.0.2560.1392/2560.0.2560.1392@0.0.2560.1392" timestamp="1720140994192" />
+    <state x="5429" y="0" width="971" height="1368" key="find.popup/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714113177105" />
+    <state x="4496" y="346" width="913" height="707" key="new project wizard" timestamp="1714113688800">
+      <screen x="3840" y="0" width="2560" height="1368" />
+    </state>
+    <state x="4496" y="346" width="913" height="707" key="new project wizard/3840.0.2560.1368/0.0.2560.1392@3840.0.2560.1368" timestamp="1714113688800" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/conf/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE.jar!/org/springframework/core/env/StandardEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/log/LogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/DynmFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/SVCE_20240123.log" />
+    <entry file="file://$PROJECT_DIR$/logs/SYSM_20240123.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/SyncTarget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/DmlColumnInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/logback-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/DmlList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../_spam-work/01. SGG/STRT-DEVSERVER-153-SGGA/sgga/conf/db.properties.spam" />
+    <entry file="file://$PROJECT_DIR$/../../../_spam-work/01. SGG/STRT-DEVSERVER-153-SGGA/sgga/conf/db.properties.rcs" />
+    <entry file="file://$PROJECT_DIR$/conf/app.properties.local" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/mapper/SyncPosLogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE.jar!/org/springframework/core/env/Environment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/SYSM_20240220.log" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/SyncPosLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.properties.spam">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.properties.rcs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.properties.origin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/db.properties.origin">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/db.properties.spam">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/redisM0.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/redisM0.aws.stg.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/advice/ControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/common/dao/RedisClusterDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/DmlDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.6.RELEASE/spring-core-5.2.6.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2678">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.6.RELEASE/spring-aop-5.2.6.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11882">
+          <caret line="457" column="22" selection-start-line="457" selection-start-column="22" selection-end-line="457" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.2.6.RELEASE/spring-tx-5.2.6.RELEASE.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5434">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/db.properties.rcs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="61" lean-forward="true" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SyncPosLogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/model/ProcResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/common/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19895">
+          <caret line="867" column="109" selection-start-line="867" selection-start-column="109" selection-end-line="867" selection-end-column="109" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/SYSM_20240321.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="41418" column="96" lean-forward="true" selection-start-line="41418" selection-start-column="96" selection-end-line="41418" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration/db/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="114" selection-start-line="1" selection-start-column="114" selection-end-line="1" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/SGGA-22.06.01/WEB-INF/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/job/DbSyncJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1219">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/service/SyncDataService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;method#excuteSyncDataList#0;class#SyncDataService#0" />
+            <element signature="e#11265#11397#1" />
+            <element signature="e#11483#11615#1" />
+            <element signature="e#11985#12266#0" />
+            <element signature="e#12298#12577#0" />
+            <element signature="e#12745#13491#0" />
+            <element signature="e#12820#12890#1" />
+            <element signature="e#12896#13487#1" />
+            <element signature="e#13037#13099#1" />
+            <element signature="e#13150#13217#1" />
+            <element signature="e#14086#14095#0" />
+            <element signature="docComment;method#makeBaseUrlStringMaria#0;class#SyncDataService#0" />
+            <element signature="method#excuteSyncRedis#0;class#SyncDataService#0" />
+            <element signature="e#15691#15722#0" />
+            <element signature="e#15789#15835#1" />
+            <element signature="e#15841#15887#1" />
+            <element signature="n#!!doc;n#setRedisDynmFilter#0;n#SyncDataService#0" />
+            <element signature="method#setRedisDynmFilter#0;class#SyncDataService#0" />
+            <element signature="e#16276#16713#1" />
+            <element signature="e#16346#16709#0" />
+            <element signature="e#16868#17136#1" />
+            <element signature="e#16972#17049#1" />
+            <element signature="e#17054#17132#1" />
+            <element signature="e#17187#17228#1" />
+            <element signature="e#17548#17569#1" />
+            <element signature="n#!!doc;n#delRedisDynmFilter#0;n#SyncDataService#0" />
+            <element signature="method#delRedisDynmFilter#0;class#SyncDataService#0" />
+            <element signature="e#17768#17903#1" />
+            <element signature="e#17838#17899#0" />
+            <element signature="method#updateIfFailLog#0;class#SyncDataService#0" />
+            <element signature="method#updateIfSuccessLog#0;class#SyncDataService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/mapper/SyncDataMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/SyncDataMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/rest/manager/RestTemplateManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sptek/sgg/sync/SyncSchedulerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1362#1363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

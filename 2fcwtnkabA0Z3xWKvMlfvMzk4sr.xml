@@ -1,0 +1,256 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="demo" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/ServletInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1714113903611" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1714113902205" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="1" lastUsed="1714113912695" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1714113903611" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1714113902205" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1714113912695" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="demo" type="20da4fc8:ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="e529d0c5:RootNode" />
+          <item name="demo" type="20da4fc8:ProjectNode" />
+          <item name="수명 주기" type="d32bdb1e:LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main/java/com/example/demo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/down/demo/demo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/down/demo/demo/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3300866" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32980865" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32980865" />
+      <window_info anchor="bottom" id="Casbin Executor" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info active="true" anchor="right" id="Maven" order="4" visible="true" weight="0.32984996" />
+      <unified_weights bottom="0.32980865" left="0.3300866" right="0.32984996" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Maven</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1001" y="265" key="#프로젝트_구조" timestamp="1714114269376">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1001" y="265" key="#프로젝트_구조/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114269376" />
+    <state x="1301" y="446" key="FileChooserDialogImpl" timestamp="1714114267184">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1301" y="446" key="FileChooserDialogImpl/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114267184" />
+    <state width="1784" height="285" key="GridCell.Tab.0.bottom" timestamp="1714114285489">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1784" height="285" key="GridCell.Tab.0.bottom/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114285489" />
+    <state width="1784" height="285" key="GridCell.Tab.0.center" timestamp="1714114285489">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1784" height="285" key="GridCell.Tab.0.center/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114285489" />
+    <state width="1784" height="285" key="GridCell.Tab.0.left" timestamp="1714114285489">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1784" height="285" key="GridCell.Tab.0.left/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114285489" />
+    <state width="1784" height="285" key="GridCell.Tab.0.right" timestamp="1714114285489">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state width="1784" height="285" key="GridCell.Tab.0.right/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114285489" />
+    <state x="1022" y="328" key="SettingsEditor" timestamp="1714114015807">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1022" y="328" key="SettingsEditor/3840.0.2560.1368/0.0.2560.1392@0.0.2560.1392" timestamp="1714114015807" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/demo/ServletInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4229885" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
